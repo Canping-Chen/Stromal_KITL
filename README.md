@@ -22,4 +22,4 @@ Memorial Sloan Kettering Cancer Center
 New York, NY 10065
 Email: shermam1@mskcc.org
 
-Any technical questions about the github/code please contact Canping Chen (chencan@ohsu.edu).
+Any technical questions about the code please get in touch with Zheng Xia (xiaz@ohsu.edu) and Canping Chen (chencan@ohsu.edu).
