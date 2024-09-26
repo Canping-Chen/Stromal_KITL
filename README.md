@@ -11,7 +11,7 @@ link to the paper: https://www.biorxiv.org/content/10.1101/2024.07.29.605485v1
 
 ## GEO data
 
-The data generated for this study are deposited in GEO database with the following accession numbers: [will be updated soon]. We have also used data from other published work whose details are in the paper.
+The data generated for this study are deposited in GEO database with the following accession numbers: _[will be updated soon]._ We have also used data from other published work whose details are in the paper.
 
 ## Contact
 
