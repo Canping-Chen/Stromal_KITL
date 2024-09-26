@@ -1,6 +1,6 @@
 # Stromal KITL/SCF promotes pancreas tissue homeostasis and restrains tumor progression
 
-This repository hosts the codes and data for the paper "Stromal KITL/SCF promotes pancreas tissue homeostasis and restrains tumor progression" Stromal KITL/SCF promotes pancreas tissue homeostasis and restrains tumor progression | bioRxiv
+This repository hosts the codes and data for the paper "Stromal KITL/SCF promotes pancreas tissue homeostasis and restrains tumor progression".
 
 ## Citation
 **Stromal KITL/SCF promotes pancreas tissue homeostasis and restrains tumor progression**
